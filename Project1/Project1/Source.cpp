@@ -1,4 +1,8 @@
 #include <iostream>
+int test()
+{
+	return 1;
+}
 
 int main()
 {
